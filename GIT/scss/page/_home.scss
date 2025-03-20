@@ -1,0 +1,19 @@
+.header{
+    width: 100vw;
+    height: 15vh;
+    background-color: #8230df;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    .titulo{
+        padding: 10px 70px;
+        font-size: 30px;
+        color: #a74848;
+        border: 4px solid #a74848;
+        border-radius: 20px;
+
+    } 
+
+}
